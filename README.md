@@ -2,4 +2,4 @@
 
 * Data source: https://www.kaggle.com/c/ucfai-core-fa19-gans/data
 
-## (Not Finish)
+## (Need Develop later)
